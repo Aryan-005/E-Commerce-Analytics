@@ -1,0 +1,15 @@
+customer_id,customer_name,gender,age,city,state,signup_date
+1001,"Rahul Sharma",Male,24,Pune,Maharashtra,2024-02-08
+1002,"Priya Patil",Female,29,Mumbai,Maharashtra,2024-02-10
+1003,"Amit Shah",Male,31,Ahmedabad,Gujarat,2024-02-18
+1004,"Sneha Josho",Female,26,Pune,Maharashtra,2024-03-08
+1005,"Rohan Mehta",Male,23,Delhi,Delhi,2024-03-15
+1006,"Aryan Yadav",Male,26,Pune,Maharashtra,2024-03-18
+1007,"Priya Jagtap",Female,25,Mumbai,Maharashtra,2024-03-25
+1008,"Shreyash Panchal",Male,28,Delhi,Delhi,2024-03-30
+1009,"Shubash Patel",Male,30,Ahmedabad,Gujarat,2024-04-04
+1010,"Mayuri Patil",Female,27,Nagpur,Maharashtra,2024-04-11
+1011,"Neha Kulkarni",Female,28,Pune,Maharashtra,2024-04-15
+1012,"Vikram Joshi",Male,32,Mumbai,Maharashtra,2024-04-18
+1013,"Karan Deshmukh",Male,27,Nashik,Maharashtra,2024-04-22
+1014,"Anjali Verma",Female,30,Delhi,Delhi,2024-04-25

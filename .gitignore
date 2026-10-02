@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Excel temporary/lock files
+~$*.xlsx
+
+# Power BI temporary/backup files
+*.pbi
+*.pbit
+
+# OS files
+Thumbs.db
+.DS_Store

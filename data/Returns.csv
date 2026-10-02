@@ -1,0 +1,5 @@
+﻿return_id,order_id,product_id,return_date,return_reason
+R001,50001,P001,1/15/2025,Damaged
+R002,50004,P005,1/28/2025,Wrong Product
+R003,50007,P009,2/10/2025,Customer Changed Mind
+R004,50008,P010,2/2/2025,Damaged

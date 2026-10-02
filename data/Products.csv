@@ -1,0 +1,11 @@
+﻿product_id,product_name,category,sub_category,cost_price,selling_price
+P001,Laptop,Electronics,Computers,45000,55000
+P002,Wireless Mouse,Electronics,Accessories,500,899
+P003,T-Shirt,Clothing,Men's Wear,400,799
+P004,Running Shoes,Sports,Footwear,1800,2999
+P005,Coffee Maker,Home & Kitchen,Appliances,2200,3499
+P006,Laptop,Electronics,Computers,5000,6000
+P007,Wireless Mouse,Electronics,Accessories,500,999
+P008,T-Shirt,Clothing,Men's Wear,500,999
+P009,Running Shoes,Sports,Footwear,1800,2999
+P010,Coffee Maker,Home & Kitchen,Appliances,2200,3499
