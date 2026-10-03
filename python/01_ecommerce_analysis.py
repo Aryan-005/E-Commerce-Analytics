@@ -1,11 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-customers = pd.read_csv("Data/customers.csv")
-products = pd.read_csv("Data/products.csv")
-orders = pd.read_csv("Data/orders.csv")
-order_items = pd.read_csv("Data/order_items.csv")
-returns = pd.read_csv("Data/returns.csv")
+customers = pd.read_csv("data/Customers.csv")
+products = pd.read_csv("data/Products.csv")
+orders = pd.read_csv("data/Orders.csv")
+order_items = pd.read_csv("data/Order_Items.csv")
+returns = pd.read_csv("data/Returns.csv")
 
 #---check missing values
 print(customers.isna().sum())
